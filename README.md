@@ -1,11 +1,11 @@
-👋 Hi, I'm RAVAGE
+Hi, I'm RAVAGE
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Automation+%26+Bot+Engineer;Web+%7C+API+%7C+Reverse+Engineering;Build+Fast.+Break+Limits." />
 </p>
 ---
 
-🚀 About Me
+About Me
 
 💻 Full Stack Developer (Web, API, Automation)
 
@@ -19,7 +19,7 @@
 
 ---
 
-🛠️ Tech Stack
+Tech Stack
 
 💡 Languages & Core Skills
 
@@ -36,7 +36,7 @@
 </p>
 ---
 
-📊 GitHub Stats
+GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
@@ -44,7 +44,7 @@
 </p>
 ---
 
-🧠 Skill Matrix
+Skill Matrix
 
 Automation        ██████████ 100%
 API Engineering   ██████████ 100%
@@ -55,7 +55,7 @@ Security Mindset  █████████░ 90%
 
 ---
 
-🔥 Featured Projects
+Featured Projects
 
 ⚡ RAVAGE Bot Engine — WhatsApp Automation (Baileys)
 
@@ -69,7 +69,7 @@ Security Mindset  █████████░ 90%
 
 ---
 
-🧩 Philosophy
+Philosophy
 
 > "Code is not just written. It is engineered, tested, and weaponized."
 
@@ -78,7 +78,7 @@ Security Mindset  █████████░ 90%
 
 ---
 
-📫 Connect With Me
+Connect With Me
 
 <p align="left">
   <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram"></a>
@@ -88,4 +88,4 @@ Security Mindset  █████████░ 90%
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=00f7ff&style=flat" />
-</p><p align="center"><b>⚠️ README ini dibuat untuk developer serius. No mediocrity allowed.</b></p>
+</p><p align="center"><b>README ini dibuat untuk developer serius. No mediocrity allowed.</b></p>
