@@ -38,8 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daff404&show_icons=false&theme=transparent&title_color=00F7FF&text_color=9AE6F5&border_color=00F7FF" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daff404&layout=compact&theme=transparent&title_color=00F7FF&text_color=9AE6F5&border_color=00F7FF" height="170" />
-</p>
 
 ---
 
