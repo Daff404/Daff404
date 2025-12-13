@@ -44,6 +44,50 @@ GitHub Stats
 </p>
 ---
 
+Skills Overview
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,php,java,nodejs,react" />
+</p><p align="left">
+  <img src="https://github.com/USERNAME_KAMU/USERNAME_KAMU/blob/main/assets/skills.svg" />
+</p>
+---
+
+Featured Projects
+
+⚡ RAVAGE Bot Engine — WhatsApp Automation (Baileys)
+
+🌐 WebView Injector — Secure Web → APK Bridge
+
+🔑 API Key Manager — Randomizer & Rotator System
+
+🧪 Exploit Lab — Testing & Evaluation Environment
+
+
+
+---
+
+Philosophy
+
+> "Code is not just written. It is engineered, tested, and weaponized."
+
+
+
+
+---
+
+Connect With Me
+
+<p align="left">
+  <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram"></a>
+  <a href="https://github.com/USERNAME_KAMU"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+</p>
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_KAMU&label=Profile%20Views&color=00F7FF&style=flat-square" />
+</p><p align="center"><b>README ini dibuat untuk developer serius. No mediocrity allowed.</b></p>---
+
 Skill Matrix
 
 Automation        ██████████ 100%
