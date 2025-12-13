@@ -20,11 +20,19 @@
 
 ---
 
-## Frontend
+### Frontend
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/skills.svg" />
-</p>
+<img src="https://skillicons.dev/icons?i=html" width="32"/>
+<img src="https://skillicons.dev/icons?i=css" width="32"/>
+<img src="https://skillicons.dev/icons?i=js" width="32"/>
+<img src="https://skillicons.dev/icons?i=react" width="32"/>
+<img src="https://skillicons.dev/icons?i=vue" width="32"/>
+<img src="https://skillicons.dev/icons?i=angular" width="32"/>
+<img src="https://skillicons.dev/icons?i=laravel" width="32"/>
+
+<br/>
+
+![Frontend Skill](https://raw.githubusercontent.com/Daff404/Daff404/main/frontend.svg)
 
 ## Backend
 
