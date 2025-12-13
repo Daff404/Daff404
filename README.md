@@ -1,4 +1,4 @@
-# Hi, I'm Daff404
+ # Hi, I'm Daff404
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Automation+%26+Bot+Engineer;Web+%7C+API+%7C+Reverse+Engineering;Cyber+Cyan+GitHub+Profile" />
@@ -20,13 +20,13 @@
 
 ---
 
-## Skills (Animated • Loop • Glow)
+## Frontend
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/skills.svg" />
 </p>
 
-## Skills (Radial)
+## Backend
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/skills-radial.svg" />
@@ -43,17 +43,7 @@
 
 ---
 
-## Featured Systems
-
-<p align="left">
-  <img src="https://img.shields.io/badge/RAVAGE_Bot_Engine-000?style=for-the-badge&logo=github&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/WebView_to_APK-000?style=for-the-badge&logo=android&logoColor=00F7FF" />
-  <img src="https://img.shields.io/badge/API_Key_Rotator-000?style=for-the-badge&logo=codecov&logoColor=00F7FF" />
-</p>
-
----
-
-## Activity Graph
+## Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daff404&theme=react-dark&bg_color=00000000&color=00F7FF&line=00F7FF&point=9AE6F5&hide_border=true" />
@@ -67,7 +57,7 @@
   <a href="https://github.com/Daff404">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00F7FF" />
   </a>
-  <a href="https://t.me/Daff404">
+  <a href="https://t.me/daffadevv">
     <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
   </a>
 </p>
@@ -77,5 +67,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Daff404&label=Profile%20Views&color=00F7FF&style=flat-square" />
 </p>
-
-<p align="center"><b>Cyber-Cyan animated README. SVG-only. No emoji. GitHub-safe.</b></p>
