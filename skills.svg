@@ -1,0 +1,54 @@
+<svg width="700" height="300" viewBox="0 0 700 300"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg { fill:#0b1220 }
+    .label { fill:#9AE6F5; font:14px monospace }
+    .bar-bg { fill:#1f2937 }
+    .bar { fill:#00F7FF }
+    .percent { fill:#00F7FF; font:12px monospace }
+  </style>
+
+  <rect width="700" height="300" class="bg"/>
+
+  <!-- Automation 100% -->
+  <text x="20" y="40" class="label">Automation</text>
+  <rect x="180" y="28" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="28" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="480" dur="1.2s" fill="freeze"/>
+  </rect>
+  <text x="670" y="40" class="percent">100%</text>
+
+  <!-- API Engineering 100% -->
+  <text x="20" y="80" class="label">API Engineering</text>
+  <rect x="180" y="68" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="68" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="480" dur="1.3s" fill="freeze"/>
+  </rect>
+  <text x="670" y="80" class="percent">100%</text>
+
+  <!-- Web Development 90% -->
+  <text x="20" y="120" class="label">Web Development</text>
+  <rect x="180" y="108" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="108" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="432" dur="1.4s" fill="freeze"/>
+  </rect>
+  <text x="670" y="120" class="percent">90%</text>
+
+  <!-- Reverse Engineering 80% -->
+  <text x="20" y="160" class="label">Reverse Engineering</text>
+  <rect x="180" y="148" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="148" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="384" dur="1.5s" fill="freeze"/>
+  </rect>
+  <text x="670" y="160" class="percent">80%</text>
+
+  <!-- Security Mindset 90% -->
+  <text x="20" y="200" class="label">Security Mindset</text>
+  <rect x="180" y="188" width="480" height="14" rx="7" class="bar-bg"/>
+  <rect x="180" y="188" height="14" rx="7" class="bar">
+    <animate attributeName="width" from="0" to="432" dur="1.6s" fill="freeze"/>
+  </rect>
+  <text x="670" y="200" class="percent">90%</text>
+
+</svg>
