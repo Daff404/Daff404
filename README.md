@@ -17,7 +17,7 @@
 ## Skills (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/main/skills.svg" />
+  <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/skills.svg" />
 </p>
 
 ---
