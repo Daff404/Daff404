@@ -1,30 +1,17 @@
 
 <div align="center">
 
-# DAFFA
-
-**SOFTWARE DEVELOPER**
-
-<sub>Web Development · Backend Systems · API Integration</sub>
-
-<br/>
-
-<a href="https://daffaputra.id">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit_Website-1F2937?style=for-the-badge&labelColor=111827&logo=googlechrome&logoColor=white" alt="Portfolio" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=DAFFA%20PUTRA&fontSize=45&fontColor=8BA4B8&fontAlignY=50" alt="DAFFA PUTRA" width="100%" />
 
 </div>
-
-<br/>
 
 ---
 
 ### 01 / ABOUT
 
-Developer focused on building web applications, backend systems, API integrations, and digital solutions.
+Developer focused on building backend systems, API integrations, and digital solutions.
 
 ```text
-> Web Development
 > Backend Systems
 > REST API Integration
 > WhatsApp Bot API
