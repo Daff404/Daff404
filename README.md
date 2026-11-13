@@ -7,7 +7,7 @@
 
 ---
 
-### 01 / ABOUT
+### ABOUT
 
 Developer focused on building backend systems, API integrations, and digital solutions.
 
@@ -20,7 +20,7 @@ Developer focused on building backend systems, API integrations, and digital sol
 
 ---
 
-### 02 / TECH STACK
+### TECH STACK
 
 <div align="center">
 
@@ -53,7 +53,7 @@ Developer focused on building backend systems, API integrations, and digital sol
 
 ---
 
-### 03 / PORTFOLIO
+### PORTOFOLIO
 
 <div align="center">
 
