@@ -1,67 +1,63 @@
-# 𝗛𝗶, 𝗜'𝗺 𝗗𝗔𝗙𝗙𝗔
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;FRONTEND+DEVELOPER;BACKEND+DEVELOPER;WHATSAPP+API" />
-</p>
+<div align="center">
+
+# DAFFA
+
+**Developer · Digital Solutions**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=19&duration=3000&pause=1200&color=8BA4B8&center=true&vCenter=true&width=500&height=45&lines=JavaScript+Developer;Node.js+%26+PHP;Backend+Development;WhatsApp+Bot+API" alt="Typing animation" />
+
+Building practical digital solutions through code.
+
+</div>
 
 ---
 
-## TECH STACK
+### About Me
+
+I'm a developer focused on building web applications, backend services, and automation tools.
+
+- Web & backend development
+- REST API integration
+- WhatsApp Bot API
+- Digital tools and automation
+
+### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python" /><br/>
-  <img src="https://skillicons.dev/icons?i=php,java,cpp,c,go" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs" /><br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite,webpack,docker" /><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,bash" /><br/>
-  <img src="https://skillicons.dev/icons?i=nginx,cloudflare,vercel,netlify,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,php&theme=dark" alt="Node.js, JavaScript, PHP" />
 </p>
 
----
+### GitHub Statistics
 
-## FRONTEND
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/frontend.svg" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Daff404&show_icons=true&hide_border=true&bg_color=00000000&title_color=8BA4B8&text_color=ABB8C3&icon_color=8BA4B8" height="165" alt="GitHub Stats" />
 
-## BACKEND
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daff404&layout=compact&hide_border=true&bg_color=00000000&title_color=8BA4B8&text_color=ABB8C3" height="165" alt="Top Languages" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daff404/Daff404/main/backend.svg" />
-</p>
+</div>
 
----
+### Contribution Activity
 
-## ANALYTICS
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daff404&show_icons=false&theme=transparent&title_color=00F7FF&text_color=9AE6F5&border_color=00F7FF" height="170" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daff404&bg_color=00000000&color=8BA4B8&line=718FA5&point=FFFFFF&area=true&area_color=718FA5&hide_border=true" width="100%" alt="Contribution Graph" />
 
----
+</div>
 
-## ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daff404&theme=react-dark&bg_color=00000000&color=00F7FF&line=00F7FF&point=9AE6F5&hide_border=true" />
-</p>
-
----
-
-## SOCIAL MEDIA
+### Portfolio
 
 <p align="left">
-  <a href="https://whatsapp.com/channel/0029Vax6r4G3gvWRYOykWv0g">
-    <img src="https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=github&logoColor=00F7FF" />
-  </a>
-  <a href="https://t.me/daffadevv">
-    <img src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=00F7FF" />
+  <a href="https://daffaputra.id">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-20252B?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daff404&label=Profile%20Views&color=00F7FF&style=flat-square" />
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Daff404&label=PROFILE+VIEWS&color=718FA5&style=flat-square" alt="Profile Views" />
+
+</div>
